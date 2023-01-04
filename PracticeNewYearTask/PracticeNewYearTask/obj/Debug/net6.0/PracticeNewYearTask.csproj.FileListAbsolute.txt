@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\bin\Debug\net6.0\PracticeNewYearTask.exe
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\bin\Debug\net6.0\PracticeNewYearTask.deps.json
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\bin\Debug\net6.0\PracticeNewYearTask.runtimeconfig.json
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\bin\Debug\net6.0\PracticeNewYearTask.dll
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\bin\Debug\net6.0\PracticeNewYearTask.pdb
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\obj\Debug\net6.0\PracticeNewYearTask.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\obj\Debug\net6.0\PracticeNewYearTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\obj\Debug\net6.0\PracticeNewYearTask.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\obj\Debug\net6.0\PracticeNewYearTask.AssemblyInfo.cs
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\obj\Debug\net6.0\PracticeNewYearTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\obj\Debug\net6.0\PracticeNewYearTask.dll
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\obj\Debug\net6.0\refint\PracticeNewYearTask.dll
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\obj\Debug\net6.0\PracticeNewYearTask.pdb
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\obj\Debug\net6.0\PracticeNewYearTask.genruntimeconfig.cache
+C:\Users\Admin\Documents\C#\AtHome\PracticeNewYearTask\PracticeNewYearTask\PracticeNewYearTask\obj\Debug\net6.0\ref\PracticeNewYearTask.dll
